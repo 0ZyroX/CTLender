@@ -13,9 +13,9 @@
 - 🛠️ Ability to fully customize messages and settings via configuration files
 
 # Commands & Permissions
-- /Lend <PlayerName>
-  - **Permission**: ctlender.use
-- /Loan Status
-  - **Permission**: ctlender.use
-- /Lender Reload
-  - **Permission**: ctlender.reload
+- ``/Lend <PlayerName>``
+  - **Permission**: ``ctlender.use``
+- ``/Loan Status``
+  - **Permission**: ``ctlender.use``
+- ``/Lender Reload``
+  - **Permission**: ``ctlender.reload``
