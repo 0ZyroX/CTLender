@@ -1,0 +1,6 @@
+language: en # en | fa-Latn
+blacklist-items:
+  - "ARROW"
+  - "FIREWORK_ROCKET"
+  - "SNOW_BALL"
+  - "EGG"

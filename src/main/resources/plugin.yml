@@ -1,0 +1,21 @@
+name: CTLender
+version: '1.1'
+main: ir.OZyroX.cTLender.CTLender
+api-version: '1.16'
+prefix: CTLender
+authors: [ OZyroX ]
+website: www.craft-tech.xyz
+commands:
+  lend:
+    description: Request to loan
+    usage: /lend <player>
+  lender:
+    description: Main Command
+    usage: /lender reload
+  loan:
+    description: Open loan GUI (accept/return)
+permissions:
+  CTLender.use:
+    default: true
+  CTLender.reload:
+    default: op
